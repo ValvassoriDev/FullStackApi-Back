@@ -4,7 +4,7 @@ Feita com React no front e Node.js + Express + PostgreSQL no back.
 
 
 #  Tecnologias Utilizadas
-- Backend
+ Backend
 - Node.js
 - Express
 - PostgreSQL
