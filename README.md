@@ -7,7 +7,7 @@ Feita com React no front e Node.js + Express + PostgreSQL no back.
  Backend
 - Node.js
 - Express
-- PostgreSQL
+- Mongodb
 - Prisma ORM
 - Cors
 - Nodemon
